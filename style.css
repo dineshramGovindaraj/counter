@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@600&family=Shantell+Sans&family=Ubuntu&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.center{
+    margin-top: 10%;
+}
+.btn{
+    margin: 10px;
+    width: 150px;
+}
+#value{
+    font-size: 50px;
+    margin: 10px;
+}
